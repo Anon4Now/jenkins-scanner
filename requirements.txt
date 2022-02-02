@@ -1,0 +1,4 @@
+safety
+bandit
+python-taint
+pylint
